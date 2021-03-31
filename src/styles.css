@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+.uk-form-danger {
+  border: 1px solid #ff0000 !important;
+}
+
+button:disabled {
+  background-color: rgba(161, 57, 57, 0.2) !important;
+}
